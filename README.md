@@ -32,5 +32,3 @@ The system demonstrates **C++ programming skills, file handling, data structures
   - Basic date handling
 
 ---
-
-## 📂 Project Structure
